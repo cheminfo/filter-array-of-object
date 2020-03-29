@@ -1,6 +1,6 @@
 {
   "name": "filter-array-of-object",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple way to filter an array of objects",
   "main": "lib/index.js",
   "module": "src/index.js",
